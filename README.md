@@ -1,5 +1,8 @@
 # Analysis-Scenerio
-The Microsoft Power Bi was used in carrying out this task. An office supply data set in Microsoft Excel was used. DAX was used to carry out calculations and reports were created for analysis to ascertain the company's performance.
+The Microsoft Power Bi was used in carrying out this Project. An office supply dataset in Microsoft Excel was imported, loaded, cleaned and transformed. 
+DAX was used to calculate the gross sales, revenue, discount, profit, profit margin, etc. 
+A new column was created as calendar and a model was established. 
+Reports were created for analysis to ascertain the company's performance and the profit margin was 11.41%.
 [Analysis Scenerio Presentation.pptx](https://github.com/OpeyemiJagunmolu/Analysis-Scenerio/files/10418527/Analysis.Scenerio.Presentation.pptx)
 [Assignment.pptx](https://github.com/OpeyemiJagunmolu/Analysis-Scenerio/files/10418528/Assignment.pptx)
 [Dataleum PowerBI Assignment.pdf](https://github.com/OpeyemiJagunmolu/Analysis-Scenerio/files/10418530/Dataleum.PowerBI.Assignment.pdf)
